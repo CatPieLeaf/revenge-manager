@@ -1,3 +1,12 @@
+## [1.2.1](https://github.com/CatPieLeaf/revenge-manager/compare/v1.2.0...v1.2.1) (2025-07-18)
+
+
+### Bug Fixes
+
+* `fillVoid` when replacing AndroidManifest.xml in base apk ([a5def51](https://github.com/CatPieLeaf/revenge-manager/commit/a5def51b90e9b55f436730b66ce979d87e7cd91d))
+* redundant divider ([0b80fae](https://github.com/CatPieLeaf/revenge-manager/commit/0b80faed1780b58ec772630118815d83946bf99a))
+* replace org.koin.androidx.compose.get with import org.koin.compose.koinInject ([d644985](https://github.com/CatPieLeaf/revenge-manager/commit/d644985c7e65fa421985e642083e12522e79746b))
+
 # [1.2.0](https://github.com/revenge-mod/revenge-manager/compare/v1.1.0...v1.2.0) (2025-03-17)
 
 
